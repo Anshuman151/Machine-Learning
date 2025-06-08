@@ -1,0 +1,16 @@
+About dataset :
+
+The dataset belongs to a retail company that collected some data from their customers,
+whether or not they have purchased certain products. It consist of 4 columns Country 
+(From customer belongs to), Age (Customer's Age), Salary (Salary of Customer), Purchased 
+(whether they have purchased product from them).
+
+About Tools :
+
+1. NumPY : To work with arrays as input of dataset.
+2. MatPlotlib : To plot the graph and charts. Here we will use Pyplot module, to plot the graph.
+3. Pandas : for importing the datset, create the matrix of features and dependent variable vector.
+4. Sklearn : To import SimpleImputer class from its impute module which would help us to handle the missing Data.
+
+Notes:
+1. 
